@@ -640,7 +640,8 @@
 
 	}
 	.content1 .ewm1{
-		width: 100%;
+		/*width: 100%;*/
+		width: 80%;
 		height: 260px;
 	}
 	.tit-i{
